@@ -1,9 +1,12 @@
-Hurdles:
+# Hurdles:
 
-Hurdles race
-Reeborg has entered a hurdles race. Make him run the course, following the path shown.
-What you need to know
-The functions move() and turn_left().
+## Hurdles race
+<p align="center">
+<img alt="Hurdles sample screen" src="https://github.com/SwamiKannan/Reeborg-Games/blob/main/hurdles/Cover.PNG"><br>
+<sub><a href="https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json"> Credit: Reeborg's World </a></sub>
+</p>
+Reeborg has entered a hurdles race. Make him run the course, following the path shown.<br>
+
 
 <a href="https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json"> Hurdle 1 </a>
 
